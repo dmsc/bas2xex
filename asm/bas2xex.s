@@ -1,7 +1,8 @@
 ; Loads a BASIC file from memory - used to convert BAS to XEX.
 ; -----------------------------------------------------------
 ;
-; dmsc - 2025
+; (c) 2025 DMSC
+; Code under MIT license, see LICENSE file.
 
         .export start
 

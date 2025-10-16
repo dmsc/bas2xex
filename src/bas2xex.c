@@ -1,3 +1,11 @@
+/*
+ * Loads a BASIC file from memory - used to convert BAS to XEX.
+ * -----------------------------------------------------------
+ *
+ * (c) 2025 DMSC
+ * Code under MIT license, see LICENSE file.
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <errno.h>
