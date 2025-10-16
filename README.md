@@ -6,6 +6,11 @@ convert to a DOS loadable format (XEX file).
 The loader also automatically enables BASIC ROM in the XL/XE computers before
 loading and running the program.
 
+## Download
+
+Download the source or the compiled binaries from github releases, at:
+https://github.com/dmsc/bas2xex/releases
+
 ## Usage
 
 To convert a `BAS` file to a `XEX` file, use the command:
