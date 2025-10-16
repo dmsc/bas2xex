@@ -96,7 +96,8 @@ int main(int argc, char **argv)
 {
     if(argc != 3)
     {
-        printf("Usage: %s [input.bas] [output.xex]\n"
+        printf("BAS2XEX 1.0 - (c) 2025 dmsc\n\n"
+               "Usage: %s [input.bas] [output.xex]\n"
                "\n"
                "Converts Atari BASIC file (.bas) to a DOS loadable file (.xex).\n"
                "The converted program enables BASIC if possible and runs the\n"
